@@ -5,7 +5,7 @@ export default function About() {
     "Alana Borkon – COO",
     "Noah Cepler – CFO",
     "Hannah Friedmann – CMO",
-    "Jude Rock",
+    "Jude "Jude Rock" Rock",
     "Ben Zarkin – CTO",
   ];
 
