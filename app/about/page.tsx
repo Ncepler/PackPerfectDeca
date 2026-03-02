@@ -2,11 +2,11 @@
 
 export default function About() {
   const teamMembers = [
-    "Alana Borkon – Founder & Developer",
-    "Noah Cepler – Founder & Developer",
-    "Hannah Friedmann – Founder & Developer",
-    "Jude Rock – Founder & Developer",
-    "Ben Zarkin – Founder & Developer",
+    "Alana Borkon – COO",
+    "Noah Cepler – CFO",
+    "Hannah Friedmann – CMO",
+    "Jude Rock",
+    "Ben Zarkin – CTO",
   ];
 
   return (
